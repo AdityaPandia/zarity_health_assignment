@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850196334357",
+    "project_id": "zarityhealthassignment",
+    "storage_bucket": "zarityhealthassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850196334357:android:fa595dc7526066955e4b1c",
+        "android_client_info": {
+          "package_name": "com.example.zarity_health_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850196334357-h4qugse0nrcrti9p01hpdu6roo5kr72u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZnrHZR0exwgydPBXv-Suw_mqUOcwQEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850196334357-h4qugse0nrcrti9p01hpdu6roo5kr72u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
